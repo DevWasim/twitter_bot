@@ -51,3 +51,13 @@ Before running the bot, you need to set up a Twitter Developer account and obtai
 - The script uses Tweepy, a third-party library. Make sure to install it before running the script.
 
 Feel free to explore and modify the script according to your needs. If you encounter any issues, refer to the Tweepy documentation or seek assistance from the Twitter Developer community. Happy tweeting! 🚀🐦
+
+
+
+
+## 🌱 Empower dedication with your generosity
+#### Every single coffee boosts towards greater motivation, turning compassion into action. Show your kind support with just a little click! 😃
+
+<a href="https://www.buymeacoffee.com/developerwasim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
